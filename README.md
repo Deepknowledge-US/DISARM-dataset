@@ -1,6 +1,6 @@
 # Best practices for improving real-time weapon detection systems in production environments
 
-All the information can be found in the following link: [https://deepknowledge-us.github.io/DISARM-page/](https://deepknowledge-us.github.io/DISARM-page/).
+All the information can be found in the following link: [https://deepknowledge-us.github.io/DISARM-dataset/](https://deepknowledge-us.github.io/DISARM-dataset/).
 
 ## Terms of use
 This dataset can be used for academic research free of charge, citing the paper as we explain below. If you seek to use the data for commercial purposes please [contact us](mailto:jaalvarez@us.es).
