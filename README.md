@@ -1,4 +1,4 @@
-# Best practices for improving real-time weapon detection systems in production environments
+# Effective Strategies for Enhancing Real-Time Weapons Detection in Industry
 
 All the information can be found in the following link: [https://deepknowledge-us.github.io/DISARM-dataset/](https://deepknowledge-us.github.io/DISARM-dataset/).
 
@@ -7,8 +7,22 @@ This dataset can be used for academic research free of charge, citing the paper 
 
 
 ## Citation
-If you use our dataset, please kindly cite the following paper: coming soon.
+If you use our dataset, please kindly cite the following paper: Effective Strategies for Enhancing Real-Time Weapons Detection in Industry.  Applied Sciences (2024), doi: https://doi.org/10.3390/app14188198.
 
+```bibtex
+@article{torregrosadominguez2024,
+author = {Torregrosa-Domínguez, Ángel and Álvarez-García, Juan A. and Salazar-González, Jose L. and Soria-Morillo, Luis M.},
+title = {Effective Strategies for Enhancing Real-Time Weapons Detection in Industry},
+journal = {Applied Sciences},
+volume = {14},
+year = {2024},
+number = {18},
+article-number = {8198},
+url = {https://www.mdpi.com/2076-3417/14/18/8198},
+issn = {2076-3417},
+doi = {10.3390/app14188198}
+}
+```
 
 ## License
 
